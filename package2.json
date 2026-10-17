@@ -1,0 +1,1 @@
+{"name":"cooking-chaos","version":"2.0.0","private":true,"description":"Cooking Chaos con servidor multijugador (sin dependencias)","main":"server.js","scripts":{"start":"node server.js"},"engines":{"node":">=18"}}
